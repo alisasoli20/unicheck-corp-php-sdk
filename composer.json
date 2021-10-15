@@ -1,5 +1,5 @@
 {
-	"name": "unicheck/unicheck-corp-php-sdk",
+	"name": "alisasoli20/unicheck-corp-php-sdk",
 	"description": "An SDK built to facilitate application development for Unicheck Corporate API 2.0+ (ex Unplag)",
 	"minimum-stability": "stable",
 	"license": "MIT",
